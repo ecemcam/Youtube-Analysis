@@ -28,11 +28,11 @@ This project is designed to extract and analyze YouTube video statistics using t
 ---
 
 ## Project Structure
- 1-Python source code - youtube.py
- 2-required modules - requirements.txt
- 3-SQL File - EDAYotubeChannels
- 4-Scraped data files - csv files 
- 5-PowerBI Dashboards - pbix file	
+ - Python source code - youtube.py
+ - required modules - requirements.txt
+ - SQL File - EDAYotubeChannels
+ - Scraped data files - csv files 
+ - PowerBI Dashboards - pbix file	
 
 
 
